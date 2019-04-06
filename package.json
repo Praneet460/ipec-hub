@@ -1,0 +1,14 @@
+{
+  "name": "ipecnews",
+  "version": "1.0.0",
+  "description": "Ipec news rest api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Praneet Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
