@@ -1,7 +1,7 @@
 {
     "ipecnews": [
         {
-            "date": 16,
+            "date": "16",
             "day": "Monday",
             "month": "May",
             "from": "TNP",
@@ -11,7 +11,7 @@
         },
     
         {
-            "date": 15,
+            "date": "15",
             "day": "Monday",
             "month": "May",
             "from": "TNP",
