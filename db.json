@@ -1,7 +1,7 @@
 {
     "ipecnews": [
         {
-            "date": 8,
+            "date": "8",
             "day": "Monday",
             "month": "April",
             "from": "Director",
@@ -11,7 +11,7 @@
         },
     
         {
-            "date": 8,
+            "date": "8",
             "day": "Monday",
             "month": "April",
             "from": "ECE Department",
@@ -21,7 +21,7 @@
         },
 
         {
-            "date": 8,
+            "date": "8",
             "day": "Monday",
             "month": "April",
             "from": "EDC",
