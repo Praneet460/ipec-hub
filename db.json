@@ -1,6 +1,16 @@
 {
     "ipecnews": [
         {
+            "date": "9",
+            "day": "Tuesday",
+            "month": "April",
+            "from": "IPEC",
+            "for": "All",
+            "news": "IPEC is organizing 3rd International Conference on Advances In Computing And Data Sciences on April 12-13, 2019 "
+    
+        },
+
+        {
             "date": "8",
             "day": "Monday",
             "month": "April",
