@@ -4,9 +4,19 @@
             "date": "9",
             "day": "Tuesday",
             "month": "April",
+            "from": "ECE Department",
+            "for": "ECE",
+            "news": "ECE Department is organizing a Project Exhibition for final year projects on 22nd April 2019"
+    
+        },
+
+        {
+            "date": "9",
+            "day": "Tuesday",
+            "month": "April",
             "from": "IPEC",
             "for": "All",
-            "news": "IPEC is organizing 3rd International Conference on Advances In Computing And Data Sciences on April 12-13, 2019 "
+            "news": "IPEC is organizing 3rd International Conference on Advances In Computing And Data Sciences on April 12-13, 2019"
     
         },
 
