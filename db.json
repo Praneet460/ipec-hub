@@ -4,6 +4,16 @@
             "date": "9",
             "day": "Tuesday",
             "month": "April",
+            "from": "EDC",
+            "for": "All",
+            "news": "NEURANG - 2019 orgnize by EDC has been postpone due to preponement of End Semester Exams"
+    
+        },
+
+        {
+            "date": "9",
+            "day": "Tuesday",
+            "month": "April",
             "from": "ECE Department",
             "for": "ECE",
             "news": "ECE Department is organizing a Project Exhibition for final year projects on 22nd April 2019"
@@ -37,16 +47,6 @@
             "from": "ECE Department",
             "for": "All",
             "news": "Project & Poster Competition organised by ECE Dept. on Monday, 15th April, 2019."
-    
-        },
-
-        {
-            "date": "8",
-            "day": "Monday",
-            "month": "April",
-            "from": "EDC",
-            "for": "All",
-            "news": "IPEC is organizing an innovation & entrepreneurship fest in asssociation with ICT on 16th April 2019"
     
         }
     
