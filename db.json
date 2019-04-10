@@ -1,6 +1,24 @@
 {
     "ipecnews": [
         {
+            "date": "10",
+            "day": "Wednesday",
+            "month": "April",
+            "from": "Reverence",
+            "for": "All",
+            "news": "Team Reverence is organizing a Health Camp for underprivileged section, on 12th April 2019, 2 p.m. onwards in front of Central Library IPEC"
+    
+        },
+        {
+            "date": "10",
+            "day": "Wednesday",
+            "month": "April",
+            "from": "Registrar",
+            "for": "All",
+            "news": "Even Sem Theory Exam 2018-19 centre for IPEC students will be JSS Academy Of Technical Education."
+    
+        },
+        {
             "date": "9",
             "day": "Tuesday",
             "month": "April",
@@ -48,27 +66,11 @@
             "for": "All",
             "news": "IPEC is organizing 3rd International Conference on Advances In Computing And Data Sciences on April 12-13, 2019"
     
-        },
-
-        {
-            "date": "8",
-            "day": "Monday",
-            "month": "April",
-            "from": "Director",
-            "for": "All",
-            "news": "College remain open on 9th & 10th April 2019"
-    
-        },
-    
-        {
-            "date": "8",
-            "day": "Monday",
-            "month": "April",
-            "from": "ECE Department",
-            "for": "All",
-            "news": "Project & Poster Competition organised by ECE Dept. on Monday, 15th April, 2019."
-    
         }
+
+       
+    
+       
     
     ]
 }
